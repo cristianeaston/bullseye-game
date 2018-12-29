@@ -1,2 +1,3 @@
 # bullseye-game
-Game created following a raywenderlich.com tutorial.
+Basic game created when going through a beginner iOS and swift development.
+
